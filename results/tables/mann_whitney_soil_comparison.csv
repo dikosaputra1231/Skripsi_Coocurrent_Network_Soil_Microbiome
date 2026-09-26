@@ -1,0 +1,12 @@
+Variable_Code,Parameter,Wetland_Paddy_Mean,Wetland_Paddy_Median,Dryland_Cropland_Mean,Dryland_Cropland_Median,U_Statistic,p_value,p_value_formatted,Significance,Rank_Biserial_r
+ph,pH Tanah (H2O),5.44,5.44,5.83,5.67,83121,1.695138576793956e-06,1.70e-06,***,0.187
+soil_organic_carbon_g_kg,Karbon Organik / SOC (g/kg),43.88,43.88,45.86,45.33,91773,0.032015501400456184,0.0320,*,0.083
+total_nitrogen_g_kg,Total Nitrogen (g/kg),2.61,2.61,3.21,3.08,44805,7.281025434424064e-46,7.28e-46,***,0.552
+cec_cmolc_kg,Kapasitas Tukar Kation / KTK (cmolc/kg),20.72,20.72,24.06,25.63,46659,5.882471877825592e-43,5.88e-43,***,0.534
+clay_percent,Fraksi Liat / Clay (%),33.81,33.81,31.43,34.47,46968,1.7562845362720945e-42,1.76e-42,***,0.531
+bulk_density_g_cm3,Kepadatan Lindak / BD (g/cm³),1.17,1.17,1.22,1.15,96717,0.09982272571046921,0.0998,ns,-0.065
+soil_moisture_gwettop,Kelembaban Permukaan (GWETTOP),0.87,0.87,0.63,0.58,194820,1.4104471769130425e-116,1.41e-116,***,-0.905
+shannon_diversity,Indeks Shannon (H'),10.12,10.15,7.87,8.23,204338,9.913491728108914e-139,9.91e-139,***,-0.998
+observed_otus,Observed OTUs,1887.38,1897.0,944.59,984.0,204171,2.7716033867079785e-138,2.77e-138,***,-0.996
+faith_pd,Faith's PD,163.03,163.95,76.62,79.47,204411,6.3178391439069945e-139,6.32e-139,***,-0.999
+chao1_richness,Chao1 Richness,3479.34,3507.55,1495.12,1529.65,203206,1.0289271079354458e-135,1.03e-135,***,-0.987

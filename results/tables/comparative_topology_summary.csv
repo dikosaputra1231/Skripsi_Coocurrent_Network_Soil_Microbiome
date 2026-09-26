@@ -1,0 +1,3 @@
+Ecosystem_Group,Total_Nodes,Total_Edges,Network_Density,Avg_Clustering_Coeff,Avg_Shortest_Path_Length,Connected_Components_Count,Largest_Component_Size
+Wetland_Paddy,200,327,0.0164321608040201,0.2999576877370995,3.9455525606469,72,106
+Dryland_Cropland,200,1396,0.07015075376884422,0.4624714194416321,2.7606639146886827,45,153
